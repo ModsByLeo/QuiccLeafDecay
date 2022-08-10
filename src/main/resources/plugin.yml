@@ -1,0 +1,8 @@
+name: QuiccLeafDecay
+version: '${version}'
+main: adudecalledleo.quiccleafdecay.QuiccLeafDecay
+api-version: 1.19
+prefix: QuiccLeafDecay
+load: POSTWORLD
+authors: [ ADudeCalledLeo ]
+description: Makes leaves decay faster.
